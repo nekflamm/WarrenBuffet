@@ -1,0 +1,2 @@
+# WarrenBuffet
+Trading bot
